@@ -64,7 +64,7 @@ local Root = HumanoidRootPart
 -- ==========================================
 -- LOAD UI LIBRARY (fake-banana)
 -- ==========================================
-Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Monkey866568/fake-banana/refs/heads/main/fake%20banana"))()
+Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Monkey866568/fake-banana/refs/heads/main/fake_banana.lua"))()
 
 Window = Library:CreateWindow({
     Title = "Monkey Hub",
