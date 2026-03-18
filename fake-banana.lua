@@ -1,5 +1,4 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Monkey866568/GIAO-DIEN-GUI/refs/heads/main/Giao%20dien%20fake%20banana"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/AnhDangNhoEm/TuanAnhIOS/refs/heads/main/koby"))()
 
 -- ==========================================
 -- SERVICES
